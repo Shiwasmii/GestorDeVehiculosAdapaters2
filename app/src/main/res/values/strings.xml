@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestorDeVehiculosAdapaters2</string>
+    <color name="color_auto_normal">#4285F4</color>      <!-- Azul para autos normales -->
+    <color name="color_auto_nuevo">#1A73E8</color>      <!-- Azul oscuro para autos nuevos -->
+    <color name="color_moto">#34A853</color>             <!-- Verde para motos estándar -->
+    <color name="color_moto_modificada">#FBBC05</color>  <!-- Amarillo para motos modificadas -->
+    <color name="color_default">#FFFFFF</color>          <!-- Blanco por defecto -->
+</resources>
